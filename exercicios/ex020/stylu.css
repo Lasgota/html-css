@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body {
+    font-family: sans-serif;
+}
+a {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+a::after {
+    content: ' [link]';
+    color: darkgrey;
+}
+a:hover {
+    color: rgb(153, 0, 0);
+}

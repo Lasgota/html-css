@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body {
+    background-color: rgb(128, 188, 236);
+}
+h1 {
+    color: aliceblue;
+}
+h2 {
+    color: red;
+}
+p {
+    color: blue;
+}
